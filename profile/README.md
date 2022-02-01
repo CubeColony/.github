@@ -4,5 +4,4 @@
 </p>
 
 ![Discord](https://img.shields.io/discord/935216710842208366?color=84adea&label=CubeColony%20Discord&style=for-the-badge)
-<pre>   </pre>
 [ ![Jitpack](https://img.shields.io/github/release/afollestad/material-dialogs.svg?color=95ea84&label=jitpack&style=for-the-badge)](https://jitpack.io/#CubeColony/Minestom)
