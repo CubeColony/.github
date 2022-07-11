@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/CubeColony/.github/master/profile/HitAndRun.png" width=300>
+	<img src="https://raw.githubusercontent.com/CubeColony/.github/master/profile/HitAndRun.png">
 	<h3 align="center">Technology is best when it brings people together.</h3>
 </p>
 
